@@ -1,10 +1,10 @@
-package com.urlcat.supporter;
+package com.urlcat.reset;
 
 import org.testng.annotations.Test;
 
 import Com.Lib.GenericLib;
 
-public class Test_Automation_Supporter {
+public class Test_Automation_ResetData {
 	@Test
 	public void updateUrlCategory() throws Exception {
 
